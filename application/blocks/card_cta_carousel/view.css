@@ -1,0 +1,11 @@
+.card-cta-carousel .card-cta-item{
+    text-align:center;
+    padding:15px;
+}
+.card-cta-carousel .card-cta-icon{
+    max-width:80px;
+    margin-bottom:10px;
+}
+.card-cta-carousel .card-cta-button{
+    margin-top:10px;
+}
