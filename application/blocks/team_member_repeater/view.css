@@ -1,0 +1,5 @@
+.team-member-list { display:flex; flex-wrap:wrap; gap:20px; }
+.team-member-item { text-align:center; max-width:300px; }
+.team-member-headshot { max-width:100%; height:auto; }
+.team-member-bio { text-align:left; }
+.team-buttons .btn { margin-right:10px; }
